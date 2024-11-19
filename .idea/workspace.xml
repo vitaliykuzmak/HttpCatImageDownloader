@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcb36f2e-90dc-41a5-bb22-57597a08a625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataBase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HttpImageStatusCli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HttpStatusChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HttpStatusImageDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/find_longest_project.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/find_max_projects_client.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/find_max_salary_worker.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/find_youngest_eldest_workers.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/init_db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/populate_db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4_MegaSoft/print_project_prices.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/src/main/java/NewsFetcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsFetcher.java/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/src/main/java/MiniGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/src/main/resources/coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/src/main/resources/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/src/main/resources/monster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game/src/main/resources/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/src/main.java/java/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/src/main.java/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2p47XgFPGbZxZsBQJx0tGFEMl1h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HttpImageStatusCli.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/javafiles/HttpCatImageDownloader/src/main/java/com/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HttpImageStatusCli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpImageStatusCli" />
+      <module name="HttpCatImageDownloader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpImageStatusCli" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb36f2e-90dc-41a5-bb22-57597a08a625" name="Changes" comment="" />
+      <created>1732013549872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732013549872</updated>
+    </task>
+    <servers />
+  </component>
+</project>
